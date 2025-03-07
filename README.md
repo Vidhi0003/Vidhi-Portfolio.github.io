@@ -8,7 +8,7 @@ My name is Vidhi and I am currently a junior attending University. I am studying
 - Battleship
 
 
-### Professional Experience
+### Professional Experience - Currently looking for an internship!
 - CS Tutor
 - Program Design I TA
 - Software Developer Intern

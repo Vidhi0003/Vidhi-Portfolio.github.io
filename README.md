@@ -10,7 +10,8 @@ My name is Vidhi and I am currently a junior attending University. I am studying
 - Java
 - R
 - Javascript
-- 
+- Swift
+- SQL
 
 ### Projects
 

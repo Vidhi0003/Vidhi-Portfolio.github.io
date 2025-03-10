@@ -3,7 +3,7 @@
 ### Hi! Welcome to my Portfolio!
 My name is Vidhi and I am currently a junior attending University. I am studying Computer Science and I love learning new coding languages!
 
-# Coding languages
+# Coding languages I know
 - Python
 - C++
 - C

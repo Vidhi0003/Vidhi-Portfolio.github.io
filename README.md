@@ -16,6 +16,7 @@ My name is Vidhi and I am currently a junior attending University. I am studying
 ### Projects
 
 - Battleship
+- Robotics Catch Game
 
 
 ### Professional Experience - Currently looking for an internship!

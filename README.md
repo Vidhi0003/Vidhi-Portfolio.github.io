@@ -5,7 +5,9 @@ My name is Vidhi and I am currently a junior attending University. I am studying
 
 # Coding languages
 - Python
-- 
+- C++
+- C
+- Java
 
 ### Projects
 

@@ -8,6 +8,9 @@ My name is Vidhi and I am currently a junior attending University. I am studying
 - C++
 - C
 - Java
+- R
+- Javascript
+- 
 
 ### Projects
 

@@ -26,3 +26,6 @@ My name is Vidhi and I am currently a junior attending University. I am studying
   
 - Robotics Catch Game - My group and I worked on this game using Arduinos and mutiple different devices to create a real-time interactive game. Every single member worked on the devices and the code associated. We were able to successfully present our game and managed to achieve our goals for this project.
 
+# Involvement
+
+- Uncommon Hacks 2025: I learned how to use react and how to utilize many different softwares. I was able to work in a team where we did data analysis.

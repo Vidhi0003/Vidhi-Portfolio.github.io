@@ -28,4 +28,4 @@ My name is Vidhi and I am currently a junior attending University. I am studying
 
 # Involvement
 
-- Uncommon Hacks 2025: I learned how to use react and how to utilize many different softwares. I was able to work in a team where we did data analysis.
+- Uncommon Hacks 2025: I learned how to use react and how to utilize many different softwares. I was able to work in a team where we did data analysis and incorporated that into our website created with React.

@@ -19,6 +19,7 @@ My name is Vidhi and I am currently a junior attending University. I am studying
 - Javascript
 - Swift
 - SQL
+- React
 
 # Projects
 

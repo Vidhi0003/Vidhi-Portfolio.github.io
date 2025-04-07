@@ -1,7 +1,7 @@
 # Vidhi's Portfolio
 
 ### Hi! Welcome to my Portfolio!
-My name is Vidhi and I am currently a junior attending University. I am studying Computer Science and I love learning new coding languages!
+My name is Vidhi and I am currently a junior attending University. I am studying Computer Science and I love learning new coding languages! Currently I am looking for an internship for the summer of 2025!
 
 # Professional Experience - Currently looking for an internship!
 - CS Tutor - I tutor for a multitude of different courses in CS as well as multiple coding languages. So far, I have helped over 80 students!

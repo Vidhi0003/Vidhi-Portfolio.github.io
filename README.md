@@ -30,3 +30,4 @@ My name is Vidhi and I am currently a junior attending University. I am studying
 # Involvement
 
 - Uncommon Hacks 2025: I learned how to use react and how to utilize many different softwares. I was able to work in a team where we did data analysis and incorporated that into our website created with React.
+- Wild Hacks 2025: During this hackathon, my team wanted to create a website that would help people plan out their meal times based on their schedules. We used React, Flask and added Auth0 to make the authentication unique to the university so that people not from the university cannot make false reviews as we wanted students to be able to share their opinions on the restaurants across campus.

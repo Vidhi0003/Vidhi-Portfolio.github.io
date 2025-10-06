@@ -7,7 +7,7 @@ My name is Vidhi and I am currently a senior attending University! I am studying
 - Current Positions:
     - Head Teaching Assistant - Currently, I have been promoted to head teaching assistant. I am the point of contact for students and would help them with any issues regarding their grades. I lead several lab sections and create slides to aid with understanding. I also hold office hours where I help students with their code and help hem think through assignments.
 
-    - Academic Tutor - I tutor for a multitude of different courses in CS as well as multiple coding languages. I tutor in C++, C, Python, R, Java, F#, Prolog, and SQL. So far, I have helped over 200 students!
+    - Academic Tutor - I tutor for a multitude of different courses in CS as well as multiple coding languages. I tutor in C++, C, Python, R, Java, F#, Prolog, and SQL. I have also helped sydents with wiring Arduinos and trouobleshooting their programs. So far, I have helped over 200 students!
         - The classes I tutor for:
             - Program Design I & II
             - Mathematical Foundations of Computing
@@ -36,6 +36,16 @@ My name is Vidhi and I am currently a senior attending University! I am studying
 - Swift
 - SQL
 - React
+
+# Relevant Coursework
+- Databases
+- Data Science
+- Mobile Development in Flutter & Dart
+- Natural Language Processing
+- Economics and Computation
+- Probability & Statistics
+- Computer Algorithms
+- Data Structures
 
 # Projects
 

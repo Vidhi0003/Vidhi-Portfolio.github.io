@@ -3,7 +3,7 @@
  Hi! Welcome to my Portfolio!
 My name is Vidhi and I am currently a senior attending University! I am studying Computer Science and I love learning new coding languages! Currently I am looking for an co-op for the winter/spring of 2026!
 
-### Professional Experience
+### Professional Experience - Currently looking for a Winter/Spring 2026 CO-OP
 - Current Positions:
     - Head Teaching Assistant - Currently, I have been promoted to head teaching assistant. I am the point of contact for students and would help them with any issues regarding their grades. I lead several lab sections and create slides to aid with understanding. I also hold office hours where I help students with their code and help hem think through assignments.
 

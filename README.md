@@ -1,6 +1,6 @@
 # Vidhi's Portfolio
 
- Hi! Welcome to my Portfolio!
+Hi! Welcome to my Portfolio!
 My name is Vidhi and I am currently a senior attending University! I am studying Computer Science and I love learning new coding languages! Currently I am looking for an co-op for the winter/spring of 2026!
 
 ### Professional Experience - Currently looking for a Winter/Spring 2026 CO-OP

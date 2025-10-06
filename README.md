@@ -1,10 +1,20 @@
 # Vidhi's Portfolio
 
 ### Hi! Welcome to my Portfolio!
-My name is Vidhi and I am currently a junior attending University. I am studying Computer Science and I love learning new coding languages! Currently I am looking for an internship for the summer of 2025!
+My name is Vidhi and I am currently a senior attending University! I am studying Computer Science and I love learning new coding languages! Currently I am looking for an co-op for the winter/spring of 2026!
 
-# Professional Experience - Currently looking for an internship!
-- CS Tutor - I tutor for a multitude of different courses in CS as well as multiple coding languages. So far, I have helped over 80 students!
+# Professional Experience - Currently looking for an CO-OP!
+- Academic Tutor - I tutor for a multitude of different courses in CS as well as multiple coding languages. I tutor in C++, C, Python, R, Java, F#, Prolog, and SQL. So far, I have helped over 200 students!
+    - The classes I tutor for:
+        - Program Design I & II
+        - Mathematical Foundations of Computing
+        - Programming Practicum
+        - Data Structures
+        - Machine Organization
+        - Software Design
+        - Systems Programming
+        - Computer Design
+        - Economics and Computation
 
 - Python TA - I TA for an introductory Python class where I work in several different areas such as project development as well as helping out with labs and grading.
 

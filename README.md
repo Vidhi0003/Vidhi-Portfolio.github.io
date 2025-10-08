@@ -5,7 +5,7 @@ My name is Vidhi and I am currently a senior attending University! I am studying
 
 ### Professional Experience - Currently looking for a Winter/Spring 2026 CO-OP
 - Current Positions:
-    - Head Teaching Assistant - Currently, I have been promoted to head teaching assistant. I am the point of contact for students and would help them with any issues regarding their grades. I lead several lab sections and create slides to aid with understanding. I also hold office hours where I help students with their code and help hem think through assignments.
+    - Head Teaching Assistant - Currently, I have been promoted to head teaching assistant. I am the point of contact for students and would help them with any issues regarding their grades. I lead several lab sections and create slides to aid with understanding. I also hold office hours where I help students with their code and help them think through assignments. Not only that, but I also provide support to other TAs by providing them insights on how to manage work as well as questions.
 
     - Academic Tutor - I tutor for a multitude of different courses in CS as well as multiple coding languages. I tutor in C++, C, Python, R, Java, F#, Prolog, and SQL. I have also helped sydents with wiring Arduinos and trouobleshooting their programs. So far, I have helped over 200 students!
         - The classes I tutor for:
